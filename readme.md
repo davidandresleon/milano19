@@ -1,1 +1,1 @@
-This are the files for the Rhino Lectures & Exhibition Milano 2019
+These are the files for the Rhino Lectures & Exhibition Milano 2019
